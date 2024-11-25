@@ -1,0 +1,25 @@
+name: flutter_reels_24
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.5.4
+
+# Add regular dependencies here.
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.4.1
+  intl: ^0.19.0
+  material: ^1.0.0+2
+  video_player: ^2.9.2
+  card_swiper: ^3.0.1
+  chewie: ^1.8.5
+  # path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^4.0.0
+  test: ^1.24.0

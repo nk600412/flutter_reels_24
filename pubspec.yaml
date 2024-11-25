@@ -1,5 +1,5 @@
 name: flutter_reels_24
-description: A starting point for Dart libraries or applications.
+description: This Flutter package enables you to build an Instagram-like Reels clone with a seamless interface to display content in a scrollable, interactive format. The package supports a variety of media types, including videos, images, and text content, making it perfect for social media applications or content-sharing platforms.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
